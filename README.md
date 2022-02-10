@@ -1,8 +1,6 @@
-# study
+<h1> Hello, world !! <h1/>
 
-<h1> Hello, world !! <h1>
-
-<h3> This project will be composed by my step-by-step learning Web/Mobile Development. <h3>
+<h4> This project will be composed by my step-by-step learning Web/Mobile Development. <h4/>
 
 
 The technologies that i'm learning are:
