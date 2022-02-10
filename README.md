@@ -1,8 +1,8 @@
 # study
 
-Hello, world !!
+<h1> Hello, world !! <h1>
 
-This project will be composed by my step-by-step learning Web/Mobile Development.
+<h3> This project will be composed by my step-by-step learning Web/Mobile Development. <h3>
 
 
 The technologies that i'm learning are:
@@ -33,7 +33,7 @@ The technologies that i'm learning are:
 
 }
 
-I'm open to hear some typs, guidelines and talk about these and another matters. For this, fallow me on Instagram @devcansado_
+I'm open to hear some typs, guidelines and talk about these and another matters. For this, fallow me on Instagram <a href="https://www.instagram.com/_devcansado/">@_devcansado</a>
 
 
 I hope you enjoy to see my progress :)
