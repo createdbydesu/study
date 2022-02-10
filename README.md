@@ -9,26 +9,26 @@ The technologies that i'm learning are:
 
 - HTML {
   
-  semantics
-  templates
-  design patterns
+  semantics <br/>
+  templates <br/>
+  design patterns 
 
 }
 
 - CSS {
   
-  flexbox
-  responsive design
-  Bootstrap
+  flexbox <br/>
+  responsive design <br/>
+  Bootstrap <br/>
   Saas
   
 }
 
 - JS {
 
-  Ecmascript
-  Angular
-  React
+  Ecmascript <br/>
+  Angular <br/>
+  React <br/>
   ReactNative
 
 }
