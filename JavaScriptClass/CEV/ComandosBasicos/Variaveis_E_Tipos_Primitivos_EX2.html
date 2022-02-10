@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula Curso Em Video</title>
+</head>
+<style>
+    body {
+        background-color: rgb(55, 8, 99);
+        color: white;
+        font: norma 20pt Arial;
+    }
+    
+    h1 {
+        color: yellow
+    }
+</style>
+
+<body>
+    <h1>Olá mundo !</h1>
+    <p>Me livrei da maldição</p>
+</body>
+<script>
+    var num1 = parseInt(window.prompt("Write a number: "));
+    var num2 = parseInt(window.prompt("Write another number: "));
+    /*
+    Number -> converte String pra número
+    parseInt -> converte String pra inteiro
+    parseFloat -> converte String pra decimal
+    String -> converte Numero em String
+    */
+    var soma = num1 + num2;
+
+    frase = String(`A soma entre ${num1} e ${num2} resulta em: ${soma}`); // outra forma de concatenar 
+    //window.alert("The result of the sum is: " + soma);
+
+    window.alert(frase.toLowerCase()); // converte toda a String em minuscula
+    window.alert(frase.toUpperCase()); // converte toda a String em maiuscula
+</script>
+
+
+</html>
